@@ -1,6 +1,6 @@
 {
    "users":[ {
-        "Id": 1,
+        "id": 1,
         "userName": "komal",
         "password": "koms",
         "email": "komal.kadam@allskripts.com",
@@ -13,7 +13,7 @@
         "proPicUrl": "http://res.cloudinary.com/rsachinwarecloudinary1/image/upload/v1535916163/SRWRestImageBase/komal.jpg.jpg"
     },
     {
-        "Id": 2,
+        "id": 2,
         "userName": "sware",
         "password": "password",
         "email": "sachin.ware@cognizant.com",
