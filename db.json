@@ -63,18 +63,5 @@
         "modifiedDate": 1535919981835,
         "lastAccessed": null,
         "proPicUrl": "http://res.cloudinary.com/rsachinwarecloudinary1/image/upload/v1535919980/SRWRestImageBase/sachinten.jpg.jpg"
-    },
-    {
-        "userId": 6,
-        "userName": "f",
-        "password": "password",
-        "email": "fg",
-        "fname": "fdg",
-        "lname": "fd",
-        "dob": 1525132800000,
-        "createdDate": 1535956252894,
-        "modifiedDate": 1535956252894,
-        "lastAccessed": null,
-        "proPicUrl": "https://TestURL"
     }
 ]
