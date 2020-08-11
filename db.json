@@ -1,11 +1,11 @@
 {
    "users":[ {
         "id": 1,
-        "userName": "komal",
-        "password": "koms",
-        "email": "komal.kadam@allskripts.com",
-        "fname": "Komal",
-        "lname": "Kadam",
+        "userName": "Ken",
+        "password": "Ken",
+        "email": "ken.thomas@allskripts.com",
+        "fname": "ken",
+        "lname": "thomas",
         "dob": 1525132800000,
         "createdDate": 1535918611210,
         "modifiedDate": 1535918630455,
