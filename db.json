@@ -1,0 +1,80 @@
+[
+    {
+        "userId": 1,
+        "userName": "komal",
+        "password": "koms",
+        "email": "komal.kadam@allskripts.com",
+        "fname": "Komal",
+        "lname": "Kadam",
+        "dob": 1525132800000,
+        "createdDate": 1535918611210,
+        "modifiedDate": 1535918630455,
+        "lastAccessed": null,
+        "proPicUrl": "http://res.cloudinary.com/rsachinwarecloudinary1/image/upload/v1535916163/SRWRestImageBase/komal.jpg.jpg"
+    },
+    {
+        "userId": 2,
+        "userName": "sware",
+        "password": "password",
+        "email": "sachin.ware@cognizant.com",
+        "fname": "SachiN",
+        "lname": "Ware",
+        "dob": 1525132800000,
+        "createdDate": 1535918693137,
+        "modifiedDate": 1535918707446,
+        "lastAccessed": null,
+        "proPicUrl": "http://res.cloudinary.com/rsachinwarecloudinary1/image/upload/v1535918514/SRWRestImageBase/android-chrome-192x192.png.png"
+    },
+    {
+        "userId": 3,
+        "userName": "amol",
+        "password": "amlya",
+        "email": "amol.lokare@gmail.com",
+        "fname": "amol",
+        "lname": "lokare",
+        "dob": 1525132800000,
+        "createdDate": 1535918736633,
+        "modifiedDate": 1535918751492,
+        "lastAccessed": null,
+        "proPicUrl": "http://res.cloudinary.com/rsachinwarecloudinary1/image/upload/v1535918577/SRWRestImageBase/IMG-20171029-WA0015.jpg.jpg"
+    },
+    {
+        "userId": 4,
+        "userName": "mahendra singh",
+        "password": "password",
+        "email": "mahendra.dhoni@bcci.com",
+        "fname": "Mahendra ",
+        "lname": "Dhoni",
+        "dob": 1525132800000,
+        "createdDate": 1535919819324,
+        "modifiedDate": 1535919890687,
+        "lastAccessed": null,
+        "proPicUrl": "http://res.cloudinary.com/rsachinwarecloudinary1/image/upload/v1535919890/SRWRestImageBase/MS-Dhoni-Pak.jpg.jpg"
+    },
+    {
+        "userId": 5,
+        "userName": "sachinten",
+        "password": "password",
+        "email": "sachin.tendulkar@bcci.com",
+        "fname": "Sachin ",
+        "lname": "Tendulkar",
+        "dob": 1525132800000,
+        "createdDate": 1535919973056,
+        "modifiedDate": 1535919981835,
+        "lastAccessed": null,
+        "proPicUrl": "http://res.cloudinary.com/rsachinwarecloudinary1/image/upload/v1535919980/SRWRestImageBase/sachinten.jpg.jpg"
+    },
+    {
+        "userId": 6,
+        "userName": "f",
+        "password": "password",
+        "email": "fg",
+        "fname": "fdg",
+        "lname": "fd",
+        "dob": 1525132800000,
+        "createdDate": 1535956252894,
+        "modifiedDate": 1535956252894,
+        "lastAccessed": null,
+        "proPicUrl": "https://TestURL"
+    }
+]
